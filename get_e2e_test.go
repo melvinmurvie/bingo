@@ -12,10 +12,10 @@ import (
 	"testing"
 
 	"github.com/Masterminds/semver"
-	"github.com/bwplotka/bingo/pkg/bingo"
-	"github.com/bwplotka/bingo/pkg/runner"
-	"github.com/bwplotka/bingo/pkg/version"
 	"github.com/efficientgo/core/testutil"
+	"github.com/melvinmurvie/bingo/pkg/bingo"
+	"github.com/melvinmurvie/bingo/pkg/runner"
+	"github.com/melvinmurvie/bingo/pkg/version"
 )
 
 const (

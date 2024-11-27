@@ -18,12 +18,12 @@ import (
 	"unicode"
 
 	"github.com/Masterminds/semver"
-	"github.com/bwplotka/bingo/pkg/bingo"
-	"github.com/bwplotka/bingo/pkg/mod"
-	"github.com/bwplotka/bingo/pkg/runner"
-	"github.com/bwplotka/bingo/pkg/version"
 	"github.com/efficientgo/core/errcapture"
 	"github.com/efficientgo/core/errors"
+	"github.com/melvinmurvie/bingo/pkg/bingo"
+	"github.com/melvinmurvie/bingo/pkg/mod"
+	"github.com/melvinmurvie/bingo/pkg/runner"
+	"github.com/melvinmurvie/bingo/pkg/version"
 	"golang.org/x/mod/module"
 )
 

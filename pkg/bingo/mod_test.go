@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/bwplotka/bingo/pkg/runner"
-	"github.com/bwplotka/bingo/pkg/version"
 	"github.com/efficientgo/core/testutil"
+	"github.com/melvinmurvie/bingo/pkg/runner"
+	"github.com/melvinmurvie/bingo/pkg/version"
 	"golang.org/x/mod/module"
 )
 

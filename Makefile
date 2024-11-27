@@ -43,7 +43,7 @@ all: format build
 .PHONY: build
 build: ## Build bingo.
 	@echo ">> building bingo"
-	@go install github.com/bwplotka/bingo
+	@go install github.com/melvinmurvie/bingo
 
 .PHONY: check-comments
 check-comments: ## Checks Go code comments if they have trailing period (excludes protobuffers and vendor files). Comments with more than 3 spaces at beginning are omitted from the check, example: '//    - foo'.

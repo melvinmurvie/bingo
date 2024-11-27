@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bwplotka/bingo/builtin"
+	"github.com/melvinmurvie/bingo/builtin"
 
 	"github.com/spf13/cobra"
 )
